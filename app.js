@@ -1,6 +1,7 @@
 const {Telegraf, Markup} = require('telegraf');
 
-const bot = new Telegraf('5629200875:AAGS_3_6TW2OdWpXkqHXRvYFIoOvECx7pus');
+// const bot = new Telegraf('5629200875:AAGS_3_6TW2OdWpXkqHXRvYFIoOvECx7pus');
+const bot = new Telegraf('5827682218:AAHoBloRkQvHJsGmOtW6SDX1qx_gAjXWgLU');
 
 const web_link = "https://bklik-test-telegram.web.app"
  
