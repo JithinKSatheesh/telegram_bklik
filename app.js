@@ -25,9 +25,7 @@ bot.command('start', ctx => {
     
 })
 
-bot.command('start', ctx => {
-    
-})
+
 
 bot.command("custom", async ctx => {
 	return await ctx.reply(
@@ -58,3 +56,5 @@ bot.command("custom", async ctx => {
 });
 
 bot.launch();
+
+console.log("Started bot")
